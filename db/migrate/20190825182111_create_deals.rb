@@ -8,6 +8,7 @@ class CreateDeals < ActiveRecord::Migration[5.2]
       t.float :value, null: false
       t.integer :deal_stage_id, null: false
       t.integer :deal_stage_percentage, null: false
+      t.string :deal_stage_name, null: false
 
       t.timestamps
     end

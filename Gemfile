@@ -5,6 +5,7 @@ gem "rails", "~> 5.2.3"
 
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
+gem "activerecord-import"
 gem "bootsnap", ">= 1.1.0", require: false
 gem "envied"
 gem "faraday"
@@ -19,6 +20,7 @@ gem "webpacker"
 
 group :development, :test do
   gem "dotenv-rails"
+  gem "factory_bot_rails"
   gem "pry-rails"
   gem "pry-remote"
   gem "rspec-rails"

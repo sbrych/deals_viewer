@@ -1,24 +1,5 @@
-# README
+# DealViewer
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To setup, apart from all the standard things, change the name of the `.env.example` file to `.env` and populate it with your own API Key.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![good luck](https://media0.giphy.com/media/j0MLDsJIKioY8/giphy.gif?cid=790b7611c138762b094979b328dffe0f5a81510548e1c988&rid=giphy.gif)
